@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Chicago + Coding = A CLI Made In Heaven"
-date:       2021-02-17 18:07:16 +0000
+date:       2021-02-17 13:07:16 -0500
 permalink:  chicago_coding_a_cli_made_in_heaven
 ---
 
@@ -18,7 +18,7 @@ Once my information source was decided, I created a list of actions that I wante
 * Ask user if he/she wants to view the list again
 * Repeat the process or exit the CLI
 
-By creating this list, I was able to understand exactly what classes and methods I needed to create. I first began by creating a skeleton CLI class, then I moved onto the Bar class, and then Scraper class. My project preparation, which lasted a couple days, was extremely helpful and I was able to complete the coding process within about 3 days. However, during this time I ran into several issues with my environment setup and faced several annoying errors that took *too* long to figure out. I continued to remind myself that it was all a part of the coding journey and eventually I was able to create a functional (and awesome) CLI! Overall, I'm really proud of myself for developing the CLI on my own and I feel that the experience gave me the validation that I needed to know that **I can do this**.
+By creating this list, I was able to understand exactly what classes and methods I needed to create. I first began by creating a skeleton CLI class, then I moved onto the Bar class, and then Scraper class. My project preparation, which lasted a couple days, was extremely helpful and I was able to complete the coding process within about 3 days. However, during this time I ran into several issues with my environment setup and faced several annoying errors that took *too* long to figure out. I continued to remind myself that it was all a part of the coding journey and eventually I was able to create a functional (and awesome) CLI! Overall, I'm really proud of myself for developing the CLI on my own, and although the CLI is quite simple, and I feel that the experience gave me the validation that I needed to know that **I can do this**.
 
 I can't wait to see what I can create next!
 

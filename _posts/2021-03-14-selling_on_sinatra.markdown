@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Selling on Sinatra"
-date:       2021-03-14 19:58:55 +0000
+date:       2021-03-14 15:58:56 -0400
 permalink:  selling_on_sinatra
 ---
 

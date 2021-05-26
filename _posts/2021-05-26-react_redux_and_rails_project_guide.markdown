@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "React/Redux & Rails Project Guide"
-date:       2021-05-26 15:18:15 +0000
+date:       2021-05-26 11:18:16 -0400
 permalink:  react_redux_and_rails_project_guide
 ---
 
 
-By the end of the week I will have completed my final Flatiron portfolio project. This last project really threw me in a loop and I must say it was by far the most time-consuming and challenging project I have worked on thus far. Learning Redux was quite difficult for me and it took awhile for me to understand the material as there are *many* files involved in a (or at least *my*) Redux project. So, I thought it would be helpful to provide a getting started guide for the frontend and backend as well as a logic flow guide for Redux.
+By the end of the week I will have completed my final Flatiron portfolio project. This last project really threw me in a loop and I must say it was by far the most time-consuming and challenging project I have worked on thus far. Learning Redux was quite difficult for me and it took awhile for me to understand the material as there are *many* files involved in a (or at least *my*) Redux project. So, I thought it would be helpful to provide a getting started guide for the frontend and backend as well as a build flow guide for Redux.
 
 **When creating a Rails API, it is best to follow these steps:**
 
@@ -80,7 +80,7 @@ By the end of the week I will have completed my final Flatiron portfolio project
 
 
 
-**When using Redux, it is helpful to follow this flow:**
+**When using Redux, it is helpful to follow this flow when building your store:**
 
 1. Add component
 2. Add reducer
